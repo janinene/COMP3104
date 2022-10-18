@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/janinene/COMP3104/precache-manifest.31bad716f09011b0c4019fec9e17f9e6.js"
+  "/janinene/COMP3104/precache-manifest.b6b0725d5176020568437de45c4a3a1b.js"
 );
 
 workbox.clientsClaim();
